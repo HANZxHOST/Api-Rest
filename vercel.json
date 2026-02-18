@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/copilot",
+      "destination": "/api/xemzz.js"
+    }
+  ]
+}
